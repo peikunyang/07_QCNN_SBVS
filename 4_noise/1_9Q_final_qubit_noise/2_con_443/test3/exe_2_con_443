@@ -1,0 +1,9 @@
+cd /home/kun/job/07_QCNN_SBVS/2025_04_23/4_noise/1_9Q/2_con_443/test1
+./exe
+cd /home/kun/job/07_QCNN_SBVS/2025_04_23/4_noise/1_9Q/2_con_443/test2
+./exe
+cd /home/kun/job/07_QCNN_SBVS/2025_04_23/4_noise/1_9Q/2_con_443/test3
+./exe
+cd /home/kun/job/07_QCNN_SBVS/2025_04_23/4_noise/1_9Q/2_con_443/test4
+./exe
+

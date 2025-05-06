@@ -1,0 +1,8 @@
+rm: cannot remove 'Result/*': No such file or directory
+rm: cannot remove 'Result/*': No such file or directory
+rm: cannot remove 'Result/*'rm: : No such file or directorycannot remove 'Result/*'
+: No such file or directory
+執行時間： 4:08:01.026824
+執行時間： 4:08:07.207952
+執行時間： 4:08:07.408528
+執行時間： 4:08:14.525756
