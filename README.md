@@ -8,21 +8,35 @@ Before running the code, please install the required Python packages:
 
 ```bash
 pip install torch numpy pennylane
-1_database/       # Converts PDBbind_v2020 data into 2⁹ and 2¹² pixel quantum image formats.
-                  # Input files include ligand.sdf and protein.pdb.
-                  # All data files are gzip-compressed (.gz).
-                  # Only one PDB ID is provided here as an example due to storage constraints.
+Folder Descriptions
+1_database/
 
-2_train/          # Scripts for training the quantum convolutional model.
+Converts PDBbind_v2020 data into 2⁹ and 2¹² pixel quantum image formats.
 
-3_check_par/      # Loads trained parameters and verifies model output using Pennylane,
-                  # comparing it against the PyTorch-based output.
+Input files include ligand.sdf and protein.pdb.
 
-4_noise/          # Applies noise in Pennylane to test trained model robustness under
-                  # quantum noise conditions.
+All data files are gzip-compressed (.gz).
 
-LICENSE           # MIT License
+Only one PDB ID is provided here as an example due to storage constraints.
 
-.gitattributes     # Git settings
+2_train/
 
-.gitignore         # Files and folders to ignore
+Scripts for training the quantum convolutional model.
+
+3_check_par/
+
+Loads trained parameters and verifies model output using Pennylane.
+
+Compares results against the PyTorch-based output.
+
+4_noise/
+
+Applies noise in Pennylane to test trained model robustness under quantum noise conditions.
+
+LICENSE
+
+MIT License.
+
+---
+
+這樣 `Folder Descriptions` 就會顯示為標準區塊而非程式碼了。你可以直接整段貼上覆蓋原本的 `README.md`。需要我幫你轉成實體檔案提供下載嗎？
