@@ -1,3 +1,13 @@
+# Quantum Convolution for Structure-Based Virtual Screening
+
+This repository demonstrates a quantum convolutional approach for structure-based virtual screening using protein-ligand complexes. It utilizes Pennylane and PyTorch for quantum circuit simulation and model training.
+
+## Installation
+
+Before running the code, please install the required Python packages:
+
+`pip install torch numpy pennylane`
+
 ## Folder Descriptions
 
 - **1_database/**
@@ -15,3 +25,6 @@
 
 - **4_noise/**
   - Applies noise in Pennylane to test trained model robustness under quantum noise conditions.
+
+- **LICENSE**
+  - MIT License.
