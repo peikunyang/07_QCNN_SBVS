@@ -28,3 +28,9 @@ Before running the code, please install the required Python packages:
 
 - **LICENSE**
   - MIT License.
+
+## Author
+
+Pei-Kun Yang  
+E-mail: [peikun@isu.edu.tw](mailto:peikun@isu.edu.tw)  
+ORCID: [https://orcid.org/0000-0003-1840-6204](https://orcid.org/0000-0003-1840-6204)
