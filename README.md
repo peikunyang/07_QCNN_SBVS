@@ -38,5 +38,3 @@ LICENSE
 MIT License.
 
 ---
-
-這樣 `Folder Descriptions` 就會顯示為標準區塊而非程式碼了。你可以直接整段貼上覆蓋原本的 `README.md`。需要我幫你轉成實體檔案提供下載嗎？
